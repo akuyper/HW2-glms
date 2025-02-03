@@ -37,7 +37,7 @@ To link to your github **repo**sitory, appropriately edit the example link below
 
 Policy on handwork is that it is required for Statistics PhD students and MS in Statistics students. It is encouraged (but not required) for MS in Applied Statistics and all other students. If you are the latter, you will not get penalized if you get these wrong.
 
-Exercises are from the course textbook *Applied Regression Analysis & Generaized Linear Models, 3rd Edtion (FOX)* --- 14.1, 14.3, 14.6, 15.2, and 15.4.
+Exercises are from the course textbook *Applied Regression Analysis & Generalized Linear Models, 3rd Edition (FOX)* --- 14.1, 14.3, 14.6, 15.2, and 15.4.
 
 You can type your answers directly into this document or you can do the work for each exercise on paper, take a picture of your solution, and include the image within this document (work must be legible). 
 
@@ -230,7 +230,7 @@ Long (1990, 1997) investigates factors affecting the research productivity of do
 | Variable name   | Definition                                                     |
 |:----------------|:---------------------------------------------------------------|
 | `fem`           | Gender: dummy variable - 1 if female, 0 if male                |
-| `mar`           | Maritial status: dummy variable - 1 if married, 0 if not       |
+| `mar`           | Marital status: dummy variable - 1 if married, 0 if not       |
 | `kid5`          | Number of children five years old or younger                   |
 | `phd`           | Prestige rating of PhD department                              |
 | `ment`          | Number of articles published by mentor during last three years |

@@ -1,6 +1,6 @@
 ## Overview
 
-In this homework, you will demonstrate the application and understanding of generalized linear models methods to situtations where we have a dichotomous outcome, a polytomous outcome, and count data.
+In this homework, you will demonstrate the understanding and application of generalized linear models to situations where we have a dichotomous outcome, a polytomous outcome, and count data.
 
 ## Submission Instructions
 
